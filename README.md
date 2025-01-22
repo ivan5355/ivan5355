@@ -1,12 +1,13 @@
 # Hi there! 👋 I'm Ivan Stadnik
 
 ## 👨‍💻 About Me
-I'm a passionate software developer and aspiring data scientist pursuing a **Bachelor of Science in Computer Science** at **Rutgers University**, with an expected graduation date of **May 2025**. I specialize in building RESTful APIs, and solving complex problems with data-driven insights. 
+I'm a passionate software developer and aspiring data scientist pursuing a Bachelor of Science in Computer Science at Rutgers University, with an expected graduation date of May 2025. I specialize in building RESTful APIs, solving complex problems with data-driven insights, and am actively seeking new graduate roles in software engineering or data science.
 
 ## 🚀 Technical Skills
 - **Languages**: Java, Python, SQL, R
 - **Libraries**: Pandas, Sklearn, Selenium, Matplotlib, Seaborn
 - **Technologies**: Flask, Express.js, MongoDB, PostgreSQL, OpenAI API, Gemini API, Vertex AI, REST API, Git
+- **IDEs**: Visual Studio Code, Cursor, IntelliJ IDEA
 
 ## 💡 Key Projects
 ### [RUCourseFinder](https://github.com/ivan5355/RUCourseFinder)
@@ -28,9 +29,6 @@ I'm a passionate software developer and aspiring data scientist pursuing a **Bac
 ### Health Journey
 - Used NJ Transit data to locate medical facilities for elderly patients at over 16,000 bus stops.
 - Awarded **"Best Use of NJ Transit Data"** at HackRU Fall 2023.
-
-## 📊 GitHub Stats
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan5355&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 - **Email**: [ivanstadnik8@gmail.com](mailto:ivanstadnik8@gmail.com)
