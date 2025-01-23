@@ -10,7 +10,6 @@ I'm a passionate software developer and aspiring data scientist pursuing a Bache
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
 ### 📚 Libraries & Frameworks
@@ -25,10 +24,10 @@ I'm a passionate software developer and aspiring data scientist pursuing a Bache
 
 ## 🛠️ Technologies
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <p>
 
 ### 🛠️ IDEs
@@ -38,16 +37,20 @@ I'm a passionate software developer and aspiring data scientist pursuing a Bache
 </p>
 
 
-
-
 ## 💡 Key Projects
 ### [RUCourseFinder](https://github.com/ivan5355/RUCourseFinder)
-- A course discovery tool for Rutgers students, enabling semantic searches for over 4,500 course titles using OpenAI's `text-embedding-ada-002` model.
-- Features include instructor lookups, partial course code searches, and location-aware course equivalency using the Mapbox Directions API.
+- Optimized course discovery for 43,000+ Rutgers students by enhancing search across 4,500+ course titles using OpenAI’s
+text-embedding-ada-002 model, applying 1,536-dimensional semantic search for more accurate recommendations
+- Automated the extraction of 240,000+ course equivalencies between 18 New Jersey community colleges and 9 Rutgers colleges
+using Python, Selenium, and BeatifulSoup
+- Engineered a location-aware feature to help students quickly identify equivalent courses at nearby community colleges,
+managing 240,000+ course equivalencies with Pandas
 
 ### [RUPreReq](https://github.com/ivan5355/RUPreReq)
-- Visualized course prerequisite graphs for 165 subjects at Rutgers to aid students in academic planning.
-- Built using Python, Flask, Pandas, and Cytoscape.js.
+- Developed interactive prerequisite visualization platform, using Cytoscape.js, for 165 subjects at Rutgers that enables students
+to quickly understand course prerequisites and better plan their academic schedules
+- Engineered a data pipeline that extracts, cleans, and processes complex AND/OR logic relationships for 4500+ courses,
+leveraging pandas for data management
 
 ## 📫 Connect With Me
 - **Email**: [ivanstadnik8@gmail.com](mailto:ivanstadnik8@gmail.com)
