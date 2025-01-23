@@ -34,6 +34,8 @@ I'm a passionate software developer and aspiring data scientist pursuing a Bache
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  Cursor
+  Windsurf
 </p>
 
 
